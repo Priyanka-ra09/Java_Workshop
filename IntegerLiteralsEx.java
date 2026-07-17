@@ -1,5 +1,5 @@
 public class IntegerLiteralsEx {
-   public static void main(String[] args) {
+	 public static void main(String[] args) {
 	        int a=104;          //Decimal Integer Literal
 	        int b=0150;         //Octal Integer Literal
 //	        int c=0x68;         //Hexa-decimal Integer Literal
@@ -17,5 +17,6 @@ public class IntegerLiteralsEx {
 	        
 	        
 	        
-	    }  
+	    }
+	
 }

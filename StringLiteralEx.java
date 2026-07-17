@@ -1,6 +1,7 @@
+
 public class StringLiteralEx {
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 		String s="Priya";
 //		String s='jdnfnsd';//Error
 //		String s=sdkjbds; //Error
@@ -11,5 +12,5 @@ public class StringLiteralEx {
 		System.out.println(sss);
 
 	}
-    
+
 }
